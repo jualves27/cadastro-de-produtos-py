@@ -1,2 +1,2 @@
 # cadastro-de-produtos-py
-entregavel
+entregáveis python semana 04, todos !
